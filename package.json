@@ -30,7 +30,7 @@
   },
   "main": "release/ct-ui-router-extras",
   "files": [
-    "release"
+    "release", "build"
   ],
   "repository": ""
 }
